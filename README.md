@@ -1,5 +1,5 @@
 # Weather-Notification-11
-
+## Видео - обзор на YouTube: https://www.youtube.com/watch?v=38jHbmKctYI
 Weather notification 11 это программа, которая показывает погоду по таймеру.
 
 В программе есть значок в трее, и файл конфигурации.
