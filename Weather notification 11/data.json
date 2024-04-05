@@ -1,0 +1,11 @@
+{
+  "api_key": "your_api_key",
+  "delay": "600",
+  "country": "Россия",
+  "place": "Челябинск",
+  "language": "ru",
+  "title": "Погода в Челябинске",
+  "content": "В Челябинске",
+  "unit of measurement": "celsius",
+  "unit of measurement content": "°C"
+}
