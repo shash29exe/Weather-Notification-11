@@ -1,5 +1,3 @@
-<h1>СРАКИ ПУКИ ВЗРЫВ ВЗРЫВ ВЗРЫВ</h1>
-
 # Weather-Notification-11
 ## Видео—обзор на YouTube: [https://www.youtube.com/watch?v=38jHbmKctYI](https://www.youtube.com/watch?v=38jHbmKctYI "ВИДЕО—ОБЗОР")
 Weather notification 11 это программа, которая показывает погоду по таймеру.
