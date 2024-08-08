@@ -1,0 +1,13 @@
+pystray~=0.19.5
+pillow~=10.4.0
+pyowm~=3.3.0
+win11toast~=0.35
+pip~=24.1
+geojson~=2.5.0
+requests~=2.32.3
+winsdk~=1.0.0b10
+certifi~=2024.7.4
+six~=1.16.0
+urllib3~=2.2.2
+idna~=3.7
+setuptools~=72.1.0
