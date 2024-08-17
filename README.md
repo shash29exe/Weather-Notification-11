@@ -1,6 +1,4 @@
 # Weather-Notification-11
-## Видео—обзор на YouTube: [https://www.youtube.com/watch?v=38jHbmKctYI](https://www.youtube.com/watch?v=38jHbmKctYI "ВИДЕО — ОБЗОР")
-Weather notification 11 это программа, которая показывает погоду по таймеру.
 
 Программа работает как на Windows 11, так и на Windows 10
 
