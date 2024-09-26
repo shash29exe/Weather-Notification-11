@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 # Weather-Notification-11
 
 Программа работает как на Windows 11, так и на Windows 10.
